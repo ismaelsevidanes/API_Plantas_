@@ -13,7 +13,7 @@ import jakarta.validation.constraints.NotBlank;
 import jakarta.validation.constraints.Size;
 
 
-
+// Modelo empleado
 @Entity
 @Table(name = "empleados")
 public class Empleado {
